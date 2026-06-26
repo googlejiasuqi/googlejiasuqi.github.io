@@ -23,15 +23,7 @@ permalink: /
     </div>
 
     <div class="hero-visual">
-      <div class="hero-visual-inner">
-        <div class="hero-glow-core"></div>
-
-        <div class="hero-float-icon" title="Google">🔍</div>
-        <div class="hero-float-icon" title="Chrome">🌐</div>
-        <div class="hero-float-icon" title="Gmail">📧</div>
-        <div class="hero-float-icon" title="YouTube">▶️</div>
-        <div class="hero-float-icon" title="Google Drive">☁️</div>
-      </div>
+      <img src="{{ site.baseurl }}/assets/images/hero-google.png" alt="谷歌加速器" class="hero-image" width="480" height="480">
     </div>
   </div>
 </section>

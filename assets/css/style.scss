@@ -311,57 +311,16 @@ h3 { font-size: 1.25rem; }
   position: relative;
 }
 
-.hero-visual-inner {
-  position: relative;
-  width: 100%;
-  max-width: 480px;
-  aspect-ratio: 1;
+.hero-image {
+  max-width: 100%;
+  height: auto;
+  filter: drop-shadow(0 0 60px rgba(91,95,255,0.3));
+  animation: heroImageFloat 5s ease-in-out infinite;
 }
 
-/* 中央发光球 */
-.hero-glow-core {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  width: 180px;
-  height: 180px;
-  margin: -90px 0 0 -90px;
-  border-radius: 50%;
-  background: radial-gradient(circle, rgba(91,95,255,0.3) 0%, rgba(111,76,255,0.1) 40%, transparent 70%);
-  animation: heroPulse 3s ease-in-out infinite;
-}
-
-@keyframes heroPulse {
-  0%, 100% { transform: scale(1); opacity: 0.6; }
-  50% { transform: scale(1.15); opacity: 1; }
-}
-
-/* 浮动图标 */
-.hero-float-icon {
-  position: absolute;
-  width: 52px;
-  height: 52px;
-  background: var(--bg-card);
-  border: 1px solid var(--border-accent);
-  border-radius: var(--radius);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 1.5rem;
-  box-shadow: var(--shadow);
-  animation: heroFloat 5s ease-in-out infinite;
-  backdrop-filter: blur(8px);
-}
-
-.hero-float-icon:nth-child(2) { top: 8%; left: 15%; animation-delay: 0s; animation-duration: 4.5s; }
-.hero-float-icon:nth-child(3) { top: 12%; right: 10%; animation-delay: 0.8s; animation-duration: 5.5s; }
-.hero-float-icon:nth-child(4) { bottom: 25%; left: 8%; animation-delay: 1.6s; animation-duration: 5s; }
-.hero-float-icon:nth-child(5) { bottom: 20%; right: 12%; animation-delay: 2.4s; animation-duration: 4.8s; }
-.hero-float-icon:nth-child(6) { top: 50%; left: 2%; animation-delay: 3.2s; animation-duration: 5.2s; }
-
-@keyframes heroFloat {
+@keyframes heroImageFloat {
   0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-12px); }
+  50% { transform: translateY(-10px); }
 }
 
 /* ═══════ Buttons ═══════ */

@@ -1,25 +1,38 @@
 <footer class="site-footer">
   <div class="container">
-    <div class="footer-content">
-      <div class="footer-about">
+    <div class="footer-grid">
+      <div class="footer-brand">
         <h3>谷歌加速器</h3>
-        <p>专业提供 Google 服务访问加速，让您畅享全球网络资源。</p>
+        <p>专业 Google 服务网络加速工具。稳定、安全、高速，让全球网络触手可及。</p>
       </div>
-      <div class="footer-links">
-        <h4>快速链接</h4>
+      <div class="footer-col">
+        <h4>产品</h4>
         <ul>
-          <li><a href="{{ site.baseurl }}/">首页</a></li>
-          <li><a href="{{ site.baseurl }}/blog/">博客</a></li>
-          <li><a href="{{ site.baseurl }}/sitemap.xml">站点地图</a></li>
+          <li><a href="{{ site.baseurl }}/#features">功能介绍</a></li>
+          <li><a href="{{ site.baseurl }}/#pricing">套餐方案</a></li>
+          <li><a href="{{ site.baseurl }}/#download">客户端下载</a></li>
         </ul>
       </div>
-      <div class="footer-contact">
-        <h4>联系我们</h4>
-        <p>邮箱: support@googlejiasuqi.com</p>
+      <div class="footer-col">
+        <h4>支持</h4>
+        <ul>
+          <li><a href="#">帮助中心</a></li>
+          <li><a href="#">常见问题</a></li>
+          <li><a href="mailto:{{ site.email }}">联系我们</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>关于</h4>
+        <ul>
+          <li><a href="#">关于我们</a></li>
+          <li><a href="#">隐私政策</a></li>
+          <li><a href="#">友情链接</a></li>
+        </ul>
       </div>
     </div>
     <div class="footer-bottom">
-      <p>&copy; {{ site.time | date: '%Y' }} 谷歌加速器. 保留所有权利.</p>
+      <span>&copy; {{ site.time | date: '%Y' }} 谷歌加速器. 保留所有权利.</span>
+      <span>support@googlejiasuqi.com</span>
     </div>
   </div>
 </footer>

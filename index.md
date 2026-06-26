@@ -1,83 +1,202 @@
 ---
 layout: default
-title: 谷歌加速器 - 畅快访问 Google 服务
-description: 谷歌加速器是一款专业的网络加速工具，帮助您高速稳定地访问谷歌搜索、Gmail、Google Scholar 等 Google 服务。智能路由，多平台支持，24小时全天候服务。
+title: 谷歌加速器 - 极速访问全球网络
+description: 谷歌加速器 - 稳定、安全、高速的专业网络加速工具。全球节点覆盖，智能路由，端到端加密，让您随时随地畅享谷歌服务。
 permalink: /
 ---
 
-<!-- Hero 区域 -->
+<!-- Hero -->
 <section class="hero">
   <div class="container">
-    <h1>谷歌加速器</h1>
-    <p class="hero-subtitle">畅快访问 Google 服务，让世界触手可及</p>
-    <p class="hero-description">一款专业、高速、稳定的网络加速工具，帮助您突破地域限制，无障碍访问谷歌搜索、Gmail、Google Scholar、YouTube 等 Google 全家桶服务。</p>
-    <div class="hero-cta">
-      <a href="#features" class="btn btn-primary">了解更多</a>
-      <a href="/blog/" class="btn btn-secondary">查看博客</a>
+    <div class="hero-content">
+      <h1>极速访问<br>全球网络</h1>
+      <p class="hero-subtitle">稳定、安全、高速连接 Google 全家桶服务。Google 加速器，让世界触手可及。</p>
+      <ul class="hero-bullets">
+        <li>全球节点</li>
+        <li>超低延迟</li>
+        <li>自动选择线路</li>
+      </ul>
+      <div class="hero-cta">
+        <a href="#download" class="btn btn-primary btn-large">立即下载</a>
+        <a href="#pricing" class="btn btn-secondary btn-large">查看套餐</a>
+      </div>
+    </div>
+
+    <div class="hero-visual">
+      <div class="hero-visual-inner">
+        <div class="hero-glow-core"></div>
+
+        <div class="hero-float-icon" title="Google">🔍</div>
+        <div class="hero-float-icon" title="Chrome">🌐</div>
+        <div class="hero-float-icon" title="Gmail">📧</div>
+        <div class="hero-float-icon" title="YouTube">▶️</div>
+        <div class="hero-float-icon" title="Google Drive">☁️</div>
+      </div>
     </div>
   </div>
 </section>
 
-<!-- 特性区域 -->
+<!-- 功能 -->
 <section id="features" class="features">
   <div class="container">
-    <h2 class="section-title">为什么选择谷歌加速器？</h2>
-    <p class="section-description">我们提供专业级的 Google 服务加速体验，让您畅享全球网络资源。</p>
+    <div class="features-header">
+      <span class="section-label">核心功能</span>
+      <h2 class="section-title">为什么选择谷歌加速器</h2>
+      <p class="section-description">专为 Google 服务优化的加速方案，稳定、安全、极速。</p>
+    </div>
     <div class="features-grid">
       <div class="feature-card">
         <div class="feature-icon">⚡</div>
-        <h3>高速稳定</h3>
-        <p>采用先进的网络加速技术，全球多节点部署，确保您获得低延迟、高带宽的优质连接体验。无论您是搜索资料还是观看视频，都能流畅无阻。</p>
+        <h3>极速连接</h3>
+        <p>覆盖全球高速节点，智能路由算法自动选择最优线路，确保低延迟、高带宽的流畅体验。</p>
       </div>
       <div class="feature-card">
         <div class="feature-icon">🧠</div>
-        <h3>智能路由</h3>
-        <p>自主研发的智能路由算法，根据您的网络环境自动选择最优节点。动态调整连接策略，确保每一次访问都走最快的路径。</p>
-      </div>
-      <div class="feature-card">
-        <div class="feature-icon">💻</div>
-        <h3>多平台支持</h3>
-        <p>全面支持 Windows、macOS、Linux、Android、iOS 等主流操作系统。一个账号，全平台通用，随时随地畅享谷歌加速器带来的便利。</p>
+        <h3>智能线路</h3>
+        <p>自主研发智能路由引擎，实时监测节点状态，动态切换最佳路径，告别卡顿与掉线。</p>
       </div>
       <div class="feature-card">
         <div class="feature-icon">🛡️</div>
-        <h3>安全加密</h3>
-        <p>采用端到端加密技术，保护您的网络数据安全。严格遵循隐私保护原则，不记录任何用户浏览数据，让您用得安心。</p>
+        <h3>数据加密</h3>
+        <p>端到端加密传输，严格无日志政策，不记录任何浏览数据，全面保护您的网络隐私安全。</p>
       </div>
       <div class="feature-card">
-        <div class="feature-icon">🕐</div>
-        <h3>24小时服务</h3>
-        <p>专业的运维团队全天候监控服务状态，及时响应和处理各类问题。提供完善的技术支持，确保您的加速体验始终如一。</p>
-      </div>
-      <div class="feature-card">
-        <div class="feature-icon">🎯</div>
-        <h3>简单易用</h3>
-        <p>一键连接，无需复杂配置。简洁直观的用户界面，让您无需任何技术背景也能轻松上手。专注做好谷歌加速这一件事。</p>
+        <div class="feature-icon">💬</div>
+        <h3>24小时客服</h3>
+        <p>专业运维团队全天候在线，快速响应，用心服务。遇到问题随时联系我们。</p>
       </div>
     </div>
   </div>
 </section>
 
-<!-- CTA 区域 -->
+<!-- 套餐 -->
+<section id="pricing" class="pricing">
+  <div class="container">
+    <div class="pricing-header">
+      <span class="section-label">套餐方案</span>
+      <h2 class="section-title">选择适合您的方案</h2>
+      <p class="section-description">简单透明的定价，无隐藏费用，所有方案均享全功能权益。</p>
+    </div>
+    <div class="pricing-grid">
+      <div class="pricing-card">
+        <div class="pricing-name">月付</div>
+        <div class="pricing-price">¥19<small>/月</small></div>
+        <div class="pricing-period">按月付费，随时取消</div>
+        <ul class="pricing-features">
+          <li>全平台通用</li>
+          <li>全球节点</li>
+          <li>智能路由</li>
+          <li>端到端加密</li>
+        </ul>
+        <a href="#" class="btn btn-secondary btn-block">立即购买</a>
+      </div>
+      <div class="pricing-card popular">
+        <div class="pricing-badge">🔥 热门</div>
+        <div class="pricing-name">季付</div>
+        <div class="pricing-price">¥49<small>/季</small></div>
+        <div class="pricing-period">省 ¥8，日均仅 ¥0.54</div>
+        <ul class="pricing-features">
+          <li>全平台通用</li>
+          <li>全球节点</li>
+          <li>智能路由</li>
+          <li>端到端加密</li>
+          <li>优先客服支持</li>
+        </ul>
+        <a href="#" class="btn btn-primary btn-block">立即购买</a>
+      </div>
+      <div class="pricing-card">
+        <div class="pricing-badge">💎 最划算</div>
+        <div class="pricing-name">年付</div>
+        <div class="pricing-price">¥129<small>/年</small></div>
+        <div class="pricing-period">省 ¥99，日均仅 ¥0.35</div>
+        <ul class="pricing-features">
+          <li>全平台通用</li>
+          <li>全球节点</li>
+          <li>智能路由</li>
+          <li>端到端加密</li>
+          <li>优先客服支持</li>
+          <li>专属节点</li>
+        </ul>
+        <a href="#" class="btn btn-secondary btn-block">立即购买</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 下载 -->
+<section id="download" class="download">
+  <div class="container">
+    <div class="download-header">
+      <span class="section-label">全平台支持</span>
+      <h2 class="section-title">随时随地加速</h2>
+      <p class="section-description">一个账号，全平台通用。支持主流操作系统和设备。</p>
+    </div>
+    <div class="download-grid">
+      <div class="download-card">
+        <div class="platform-icon">🪟</div>
+        <div class="platform-name">Windows</div>
+        <div class="platform-sub">Win 10 / 11</div>
+      </div>
+      <div class="download-card">
+        <div class="platform-icon">🍎</div>
+        <div class="platform-name">macOS</div>
+        <div class="platform-sub">Intel / M 系列</div>
+      </div>
+      <div class="download-card">
+        <div class="platform-icon">🤖</div>
+        <div class="platform-name">Android</div>
+        <div class="platform-sub">8.0 及以上</div>
+      </div>
+      <div class="download-card">
+        <div class="platform-icon">📱</div>
+        <div class="platform-name">iOS</div>
+        <div class="platform-sub">15.0 及以上</div>
+      </div>
+      <div class="download-card">
+        <div class="platform-icon">🐧</div>
+        <div class="platform-name">Linux</div>
+        <div class="platform-sub">主流发行版</div>
+      </div>
+      <div class="download-card">
+        <div class="platform-icon">📡</div>
+        <div class="platform-name">OpenWrt</div>
+        <div class="platform-sub">路由器固件</div>
+      </div>
+      <div class="download-card">
+        <div class="platform-icon">🏠</div>
+        <div class="platform-name">Router</div>
+        <div class="platform-sub">软路由支持</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
 <section class="cta-section">
   <div class="container">
-    <h2>立即体验谷歌加速器</h2>
-    <p>让 Google 服务触手可及，提升您的工作和学习效率。</p>
-    <a href="#features" class="btn btn-primary btn-large">开始使用</a>
+    <div class="cta-inner">
+      <h2>准备好体验极速网络了吗？</h2>
+      <p>加入全球百万用户，畅享 Google 服务无障碍访问。</p>
+      <a href="#download" class="btn btn-primary btn-large">立即下载谷歌加速器</a>
+    </div>
   </div>
 </section>
 
 <!-- 最新文章 -->
 <section class="latest-posts">
   <div class="container">
-    <h2 class="section-title">最新动态</h2>
+    <div class="features-header">
+      <span class="section-label">最新动态</span>
+      <h2 class="section-title">博客文章</h2>
+      <p class="section-description">产品更新、使用教程、网络加速技巧。</p>
+    </div>
     <div class="posts-grid">
       {% for post in site.posts limit:3 %}
       <article class="post-card">
         <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
         <time>{{ post.date | date: "%Y年%m月%d日" }}</time>
-        <p>{{ post.excerpt | strip_html | truncate: 100 }}</p>
-        <a href="{{ post.url | relative_url }}" class="read-more">阅读全文 &rarr;</a>
+        <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
+        <a href="{{ post.url | relative_url }}" class="read-more">阅读全文 →</a>
       </article>
       {% endfor %}
     </div>

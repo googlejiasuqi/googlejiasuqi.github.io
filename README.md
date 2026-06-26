@@ -2,6 +2,8 @@
 
 谷歌加速器是一类帮助用户更加稳定访问 Google 相关服务的网络工具，可用于访问 Google 搜索、Gmail、Google Play、YouTube、Google Drive、Google Maps 等应用和网站。
 
+[谷歌加速器](https://googlejiasuqi.github.io/)
+地址：[https://googlejiasuqi.github.io/](https://googlejiasuqi.github.io/)
 本项目主要提供谷歌加速器使用教程、客户端下载、安装指南以及常见问题解答，帮助用户快速完成配置，提高访问 Google 服务时的连接稳定性和使用体验。
 
 ---

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  {% include head.html %}
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="{{ site.baseurl }}/" class="site-title">谷歌加速器</a>
+      <nav class="site-nav">
+        <ul>
+          <li><a href="{{ site.baseurl }}/">首页</a></li>
+          <li><a href="{{ site.baseurl }}/blog/">博客</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="site-main">
+    <article class="post container">
+      <header class="post-header">
+        <h1 class="post-title">{{ page.title }} - 谷歌加速器</h1>
+        <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">
+          {{ page.date | date: "%Y年%m月%d日" }}
+        </time>
+      </header>
+      <div class="post-content">
+        {{ content }}
+      </div>
+      <footer class="post-footer">
+        <a href="{{ site.baseurl }}/blog/" class="back-link">&larr; 返回博客</a>
+      </footer>
+    </article>
+  </main>
+
+  {% include footer.html %}
+</body>
+</html>

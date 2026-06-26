@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  {% include head.html %}
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="{{ site.baseurl }}/" class="site-title">谷歌加速器</a>
+      <nav class="site-nav">
+        <ul>
+          <li><a href="{{ site.baseurl }}/">首页</a></li>
+          <li><a href="{{ site.baseurl }}/#features">特性</a></li>
+          <li><a href="{{ site.baseurl }}/blog/">博客</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="site-main">
+    {{ content }}
+  </main>
+
+  {% include footer.html %}
+
+  <script>
+    // 移动端菜单切换
+    document.querySelector('.menu-toggle')?.addEventListener('click', function() {
+      document.querySelector('.site-nav ul').classList.toggle('active');
+    });
+  </script>
+</body>
+</html>

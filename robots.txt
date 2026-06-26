@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://googlejiasuqi.github.io/sitemap.xml

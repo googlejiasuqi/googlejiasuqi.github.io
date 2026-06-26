@@ -1,23 +1,39 @@
+# Site settings
 title: 谷歌加速器
 email: support@googlejiasuqi.com
 description: >-
-  谷歌加速器 - 一款帮助您畅快访问 Google 服务的专业网络加速工具。高速稳定、智能路由、多平台支持，让您随时随地无障碍访问谷歌搜索、Gmail、Google Scholar 等服务。
+  谷歌加速器 - 专业Google服务网络加速工具。全球节点覆盖，智能路由，端到端加密。支持Windows/macOS/Android/iOS/Linux全平台，一键加速访问谷歌搜索、Gmail、YouTube、Google Scholar等服务。
 baseurl: ""
 url: "https://googlejiasuqi.github.io"
 github_username: googlejiasuqi
 
+# SEO
+tagline: 稳定、安全、高速的Google服务加速器
+keywords: 谷歌加速器, Google加速器, 网络加速, Google访问, 谷歌访问, VPN, 代理工具, 科学上网
+
+# Social
+social:
+  name: 谷歌加速器
+
 # Build settings
 markdown: kramdown
+highlighter: rouge
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+
+# Feed
+feed:
+  path: /feed.xml
 
 # Exclude from processing
 exclude:
   - Gemfile
   - Gemfile.lock
   - vendor/
+  - README.md
 
 # Site language
 lang: zh-CN
@@ -28,6 +44,10 @@ collections:
     output: true
     permalink: /blog/:year/:month/:day/:title/
 
+# Pagination (blog index shows all posts)
+paginate: 12
+paginate_path: "/blog/page/:num/"
+
 # Default frontmatter
 defaults:
   - scope:
@@ -35,7 +55,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      author: 谷歌加速器
   - scope:
       path: ""
     values:
       layout: "default"
+
+# Timezone
+timezone: Asia/Shanghai

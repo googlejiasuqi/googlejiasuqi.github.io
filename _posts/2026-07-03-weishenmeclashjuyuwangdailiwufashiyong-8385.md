@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "为什么clash局域网代理无法使用？"
+title: "为什么clash局域网加速无法使用？"
 date: "2026-07-03 09:46:48 +08:00"
 permalink: /weishenmeclashjuyuwangdailiwufashiyong/
 tags:
   - "机场节点"
   - "clash局域网"
   - "节点测速工具"
-  - "clash局域网代理"
+  - "clash局域网加速"
   - "免费节点"
   - "免费飞机场"
   - "节点订阅"
-keywords: "机场节点,clash局域网,节点测速工具,clash局域网代理,免费节点,免费飞机场,节点订阅"
-description: "为什么clash局域网代理无法使用？ 使用 Clash 的朋友，有时候会遇到一个让人头疼的问题，那就是 clash局域网代理无法使用。这意味着你可能无法通过运行 Clash 的电脑来共享网络给局域网内的其他设备，比如手机、平板或者另一台电脑"
+keywords: "机场节点,clash局域网,节点测速工具,clash局域网加速,免费节点,免费飞机场,节点订阅"
+description: "为什么clash局域网加速无法使用？ 使用 Clash 的朋友，有时候会遇到一个让人头疼的问题，那就是 clash局域网加速无法使用。这意味着你可能无法通过运行 Clash 的电脑来共享网络给局域网内的其他设备，比如手机、平板或者另一台电脑"
 ---
 ![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点推荐.png)
 

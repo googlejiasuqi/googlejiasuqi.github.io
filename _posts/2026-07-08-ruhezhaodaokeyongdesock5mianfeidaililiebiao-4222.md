@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "如何找到可用的 sock5 免费代理列表？"
+title: "如何找到可用的 sock5 免费加速列表？"
 date: "2026-07-08 04:40:35 +08:00"
 permalink: /ruhezhaodaokeyongdesock5mianfeidaililiebiao/
 tags:
   - "小火箭自动更新"
   - "高速机场节点"
-  - "免费代理"
+  - "免费加速"
   - "节点订阅链接"
   - "机场节点购买"
   - "免费飞机场"
   - "免费节点机场"
-keywords: "小火箭自动更新,高速机场节点,免费代理,节点订阅链接,机场节点购买,免费飞机场,免费节点机场"
-description: "如何找到可用的 sock5 免费代理列表？
+keywords: "小火箭自动更新,高速机场节点,免费加速,节点订阅链接,机场节点购买,免费飞机场,免费节点机场"
+description: "如何找到可用的 sock5 免费加速列表？
 机场名称：灵魂云（SoulCloud）
 
 灵魂云（SoulCloud）- 活跃的中小规模机场测评

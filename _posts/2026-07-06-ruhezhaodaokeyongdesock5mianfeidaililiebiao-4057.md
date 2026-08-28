@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何找到可用的 sock5 免费代理列表？"
+title: "如何找到可用的 sock5 免费加速列表？"
 date: "2026-07-06 10:05:41 +08:00"
 permalink: /ruhezhaodaokeyongdesock5mianfeidaililiebiao/
 tags:
@@ -12,7 +12,7 @@ tags:
   - "高速机场节点"
   - "免费节点机场"
 keywords: "节点订阅链接,节点订阅,免费飞机场,免费订阅,机场节点购买,高速机场节点,免费节点机场"
-description: "如何找到可用的 sock5 免费代理列表？ 在网络世界中，有时我们需要借助代理服务器来访问某些资源或保护个人隐私。而 SOCKS5 代理因其灵活性和广泛的协议支持，成为了许多人的首选。然而，想要找到一份稳定可靠的 sock5 免费代理列表并"
+description: "如何找到可用的 sock5 免费加速列表？ 在网络世界中，有时我们需要借助加速服务器来访问某些资源或保护个人隐私。而 SOCKS5 加速因其灵活性和广泛的协议支持，成为了许多人的首选。然而，想要找到一份稳定可靠的 sock5 免费加速列表并"
 ---
 ![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅地址.png)
 

@@ -12,7 +12,7 @@ tags:
   - "飞机场节点"
   - "rocket小火箭"
 keywords: "节点免费,高速节点,Clash for Windows,Clash设置,免费飞机场,飞机场节点,rocket小火箭"
-description: "为什么clash电脑用不了手机可以用，如何解决？ 不少朋友在使用Clash或类似代理软件时，可能会遇到一个令人困扰的现象：同样的订阅链接，在手机上使用（比如iOS的Shadowrocket小火箭或Android的Clash for Andr"
+description: "为什么clash电脑用不了手机可以用，如何解决？ 不少朋友在使用Clash或类似加速软件时，可能会遇到一个令人困扰的现象：同样的订阅链接，在手机上使用（比如iOS的Shadowrocket小火箭或Android的Clash for Andr"
 ---
 ![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅推荐.png)
 

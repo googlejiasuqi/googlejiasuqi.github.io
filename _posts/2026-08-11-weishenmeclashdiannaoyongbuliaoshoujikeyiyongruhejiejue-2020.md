@@ -13,7 +13,7 @@ tags:
   - "免费机场高速节点"
 keywords: "Shadowrocket小火箭,Clash设置,节点分享,Clash for Windows,clash节点,机场节点,免费机场高速节点"
 description: "为什么clash电脑用不了手机可以用，如何解决？
-不少朋友在使用Clash或类似代理软件时，可能会遇到一个令人困扰的现象：同样的订阅链接，在手机上使用（比如iOS的Shadowrocket小火箭或Android的Clash for Andr"
+不少朋友在使用Clash或类似加速软件时，可能会遇到一个令人困扰的现象：同样的订阅链接，在手机上使用（比如iOS的Shadowrocket小火箭或Android的Clash for Andr"
 ---
 
 <h2>为什么clash电脑用不了手机可以用，如何解决？</h2>

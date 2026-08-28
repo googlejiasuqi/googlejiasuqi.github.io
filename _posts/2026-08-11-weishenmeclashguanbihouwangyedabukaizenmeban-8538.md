@@ -13,7 +13,7 @@ tags:
   - "clash for"
 keywords: "2rayng免费节点,机场节点推荐,高速机场节点,节点分享,clash verge节点,clash for win,clash for"
 description: "为什么clash关闭后网页打不开，怎么办？
-很多使用代理工具，比如 Clash、Shadowrocket（常被称为小火箭）、V2Ray 或 SSR 等软件的朋友，可能会遇到一个常见的问题：当您关闭了这些软件，或者只是暂停了代理服务后，却发现"
+很多使用加速工具，比如 Clash、Shadowrocket（常被称为小火箭）、V2Ray 或 SSR 等软件的朋友，可能会遇到一个常见的问题：当您关闭了这些软件，或者只是暂停了加速服务后，却发现"
 ---
 
 <h2>为什么clash关闭后网页打不开，怎么办？</h2>

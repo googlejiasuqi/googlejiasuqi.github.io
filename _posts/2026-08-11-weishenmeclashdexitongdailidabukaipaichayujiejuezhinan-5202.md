@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "为什么 Clash 的系统代理打不开？排查与解决指南"
+title: "为什么 Clash 的系统加速打不开？排查与解决指南"
 date: "2026-08-11 08:28:50 +08:00"
 permalink: /weishenmeclashdexitongdailidabukaipaichayujiejuezhinan/
 tags:
@@ -12,8 +12,8 @@ tags:
   - "clash节"
   - "节点订阅"
 keywords: "clash for andr,节点订阅链接,clash for,免费节点机场,clash节点,clash节,节点订阅"
-description: "为什么 Clash 的系统代理打不开？排查与解决指南
-许多用户在配置 Clash 时会免费节点机场高速遇到一个令人困扰的问题：明明按照教程操作了，但系统代理却始终无法正常开启，导致无法访问网络。这究竟是为什么呢？本文将深入探讨 Clash "
+description: "为什么 Clash 的系统加速打不开？排查与解决指南
+许多用户在配置 Clash 时会免费节点机场高速遇到一个令人困扰的问题：明明按照教程操作了，但系统加速却始终无法正常开启，导致无法访问网络。这究竟是为什么呢？本文将深入探讨 Clash "
 ---
 
 <h2>为什么 Clash 的系统代理打不开？排查与解决指南</h2>

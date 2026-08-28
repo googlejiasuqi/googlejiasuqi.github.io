@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 谷歌加速器 - 极速访问全球网络
-description: 谷歌加速器 - 稳定、安全、高速的专业网络加速工具。全球节点覆盖，智能路由，端到端加密，让您随时随地畅享谷歌服务。
+title: 谷歌加速器 - 一键加速访问 Google 服务
+description: 谷歌加速器 - 稳定、安全、高速的Google服务加速工具。全球节点覆盖，智能路由，端到端加密，支持全平台一键加速访问谷歌搜索、Gmail、YouTube等Google服务。
 permalink: /
 ---
 

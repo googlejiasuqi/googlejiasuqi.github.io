@@ -12,7 +12,7 @@ tags:
   - "节点分享"
   - "节点连接失败"
 keywords: "Clash Verge,高速节点,Clash for Windows,节点推荐,免费节点,节点分享,节点连接失败"
-description: "为什么 Clash 国内无法上网？实用的解决办法与节点推荐 不少朋友在使用 Clash 这款代理工具时，可能会遇到一个令人困扰的问题：明明已经按照教程配置了，Clash 却在国内无法上网。这不是个别现象，而是很多用户都曾经历的困境。遇到“c"
+description: "为什么 Clash 国内无法上网？实用的解决办法与节点推荐 不少朋友在使用 Clash 这款加速工具时，可能会遇到一个令人困扰的问题：明明已经按照教程配置了，Clash 却在国内无法上网。这不是个别现象，而是很多用户都曾经历的困境。遇到“c"
 ---
 ![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅推荐.png)
 

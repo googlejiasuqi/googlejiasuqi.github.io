@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "为什么 Clash 不显示代理？多维度分析与解决建议"
+title: "为什么 Clash 不显示加速？多维度分析与解决建议"
 date: "2026-07-08 04:40:33 +08:00"
 permalink: /weishenmeclashbuxianshidailiduoweidufenxiyujiejuejianyi/
 tags:
@@ -12,7 +12,7 @@ tags:
   - "节点分享"
   - "免费订阅链接"
 keywords: "美国节点下载,免费飞机场,免费节点机场,飞机场节点,免费节点,节点分享,免费订阅链接"
-description: "为什么 Clash 不显示代理？多维度分析与解决建议 在使用 Clash 进行网络代理时，不少用户会遇到一个令人困扰的问题：明明已经配置好了订阅链接和节点信息，但在软件界面中却“为什么 Clash 不显示代理”或者代理端口为空白。这不仅影响"
+description: "为什么 Clash 不显示加速？多维度分析与解决建议 在使用 Clash 进行网络加速时，不少用户会遇到一个令人困扰的问题：明明已经配置好了订阅链接和节点信息，但在软件界面中却“为什么 Clash 不显示加速”或者加速端口为空白。这不仅影响"
 ---
 ![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点购买.png)
 

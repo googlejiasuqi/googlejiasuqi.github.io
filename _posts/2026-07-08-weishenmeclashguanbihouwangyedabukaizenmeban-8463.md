@@ -12,7 +12,7 @@ tags:
   - "飞机场节点"
   - "免费机场节点"
 keywords: "高速机场节点,高速机场节点推荐,免费飞机场,节点推荐,订阅节点,飞机场节点,免费机场节点"
-description: "为什么clash关闭后网页打不开，怎么办？ 很多使用代理工具，比如 Clash、Shadowrocket（常被称为小火箭）、V2Ray 或 SSR 等软件的朋友，可能会遇到一个常见的问题：当您关闭了这些软件，或者只是暂停了代理服务后，却发现"
+description: "为什么clash关闭后网页打不开，怎么办？ 很多使用加速工具，比如 Clash、Shadowrocket（常被称为小火箭）、V2Ray 或 SSR 等软件的朋友，可能会遇到一个常见的问题：当您关闭了这些软件，或者只是暂停了加速服务后，却发现"
 ---
 ![Clash节点推荐](https://clashjd.github.io/assets/img/稳定订阅机场推荐.png)
 

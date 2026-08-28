@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "为什么Clash不能翻墙了？深入分析与可行建议"
+title: "为什么Clash不能访问了？深入分析与可行建议"
 date: "2026-07-08 04:40:30 +08:00"
 permalink: /weishenmeclashbunengfanqiangleshenrufenxiyukexingjianyi/
 tags:
@@ -12,7 +12,7 @@ tags:
   - "V2Ray节点"
   - "免费节点机场"
 keywords: "高速机场节点,Clash官方,Clash节点,节点订阅链接,机场节点购买,V2Ray节点,免费节点机场"
-description: "为什么Clash不能翻墙了？深入分析与可行建议 近期，不少用户反映在使用Clash软件时遇到了连接不稳定甚至无法访问外网的情况。这让许多依赖Clash进行网络访问的伙伴感到困扰。那么，究竟为什么Clash不能翻墙了？本文将从多个角度深入探讨"
+description: "为什么Clash不能访问了？深入分析与可行建议 近期，不少用户反映在使用Clash软件时遇到了连接不稳定甚至无法访问外网的情况。这让许多依赖Clash进行网络访问的伙伴感到困扰。那么，究竟为什么Clash不能访问了？本文将从多个角度深入探讨"
 ---
 ![Clash节点推荐](https://clashjd.github.io/assets/img/tiktok机场推荐.png)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "为什么 Clash 的系统代理打不开？排查与解决指南"
+title: "为什么 Clash 的系统加速打不开？排查与解决指南"
 date: "2026-07-08 04:40:33 +08:00"
 permalink: /weishenmeclashdexitongdailidabukaipaichayujiejuezhinan/
 tags:
@@ -12,7 +12,7 @@ tags:
   - "免费节点"
   - "免费节点分享"
 keywords: "节点订阅链接,免费节点机场,节点分享,可用节点数量,节点订阅,免费节点,免费节点分享"
-description: "为什么 Clash 的系统代理打不开？排查与解决指南 许多用户在配置 Clash 时会免费节点机场高速遇到一个令人困扰的问题：明明按照教程操作了，但系统代理却始终无法正常开启，导致无法访问网络。这究竟是为什么呢？本文将深入探讨 Clash "
+description: "为什么 Clash 的系统加速打不开？排查与解决指南 许多用户在配置 Clash 时会免费节点机场高速遇到一个令人困扰的问题：明明按照教程操作了，但系统加速却始终无法正常开启，导致无法访问网络。这究竟是为什么呢？本文将深入探讨 Clash "
 ---
 ![Clash节点推荐](https://clashjd.github.io/assets/img/免费机场节点推荐.png)
 
